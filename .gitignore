@@ -1,0 +1,8 @@
+.terraform/
+archive/
+build/
+python
+*.zip
+*.hcl
+zip_file.sh
+
